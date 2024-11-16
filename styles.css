@@ -419,8 +419,8 @@ pre {
 	width: 100%;
 	height: 100%;
 	z-index: -1;
-	background-color: rgb(2, 1, 24);
-	opacity: 0.8;
+	background-color: var(--secondary-color);
+	opacity: 0.935;
 }
 .call-action-content .action-title {
 	font-size: 45px;
